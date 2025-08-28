@@ -1,4 +1,4 @@
-# 17-214 Lab 2 (S25)
+# 17-214/514 Lab 2 (F25)
 
 Find instructions at <https://github.com/CMU-17-214/f2025/blob/main/labs/lab02.md>
 
