@@ -1,7 +1,8 @@
 package edu.cmu.cs.cs214.lab02;
 
+// import the specific shape class to calculate
 import edu.cmu.cs.cs214.lab02.shapes.Rectangle;
-// import Shape
+// import shape to declare 
 import edu.cmu.cs.cs214.lab02.shapes.Shape;
 
 public class Main {
