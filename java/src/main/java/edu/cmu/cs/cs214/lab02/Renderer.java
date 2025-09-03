@@ -3,14 +3,17 @@ package edu.cmu.cs.cs214.lab02;
 import edu.cmu.cs.cs214.lab02.shapes.*;
 
 public class Renderer {
-    public Rectangle rectangle;
+    // declare the variable shapes as Shapes
+    public Shape shape;
     
-    Renderer(Rectangle rectangle) {
-        this.rectangle = rectangle;
+    // Renderer constructor, receive argument shape
+    Renderer(Shape shape) {
+        this.shape = shape;
     }
 
     void draw() {
-        double area = rectangle.getArea();
+        // interface Shape method
+        double area = shape.getArea();
 
         // assume implementation
 
